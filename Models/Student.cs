@@ -1,4 +1,4 @@
-namespace practice.Models;
+namespace practika3.Models;
 
 /// <summary>
 /// Студент
