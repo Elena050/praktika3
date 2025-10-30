@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using practice.Data;
+using practika3.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
